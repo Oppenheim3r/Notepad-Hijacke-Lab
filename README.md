@@ -17,4 +17,4 @@ This lab is for emulating the hijack for notepad++ server that made a milicous u
 
 3. **test the attack:**
    - then once connected just update the program i am using 8.8.1 version. ``https://notepad-plus-plus.org/downloads/v8.8.1/``
-   - you can choose a different executable that mine 
+   - the update is ``malicious_update.exe`` its safe only a pop up ,but  you can choose a different executable that mine 
