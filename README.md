@@ -3,7 +3,7 @@
 This lab is for emulating the hijack for notepad++ server that made a milicous update .
 
 ## Setup Instructions:
-
+   - https://github.com/Oppenheim3r/Notepad-Hijacke-Lab.git
 1. **On your  linux host :**
    - Run `chmod +x run_lab.sh`
    - Run `./run_lab.sh`
@@ -16,5 +16,5 @@ This lab is for emulating the hijack for notepad++ server that made a milicous u
 
 
 3. **test the attack:**
-   - then once connected just update the program i am using 8.1.1 version.
+   - then once connected just update the program i am using 8.8.1 version. ``https://notepad-plus-plus.org/downloads/v8.8.1/``
    - you can choose a different executable that mine 
